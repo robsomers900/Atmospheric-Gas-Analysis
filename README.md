@@ -1,2 +1,2 @@
-# atmospheric_gas_analysis
-Gasping for Clues: Unraveling the Atmosphere's Mysterious Behavior
+# Gasping for Clues: Unraveling the Atmosphere's Mysterious Behavior
+Everything you need to know is in main :) 
